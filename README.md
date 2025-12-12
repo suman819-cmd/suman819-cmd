@@ -1,120 +1,289 @@
-# Suman Bashyal | Fullstack Developer 👨‍💻
+# Suman Bashyal ⚡
 
 <div align="center">
   
-### 🚀 Passionate Developer from Nepal | Crafting Digital Experiences
+### 🚀 **Senior Fullstack Developer | MERN Specialist | Cloud-Native Architect**
   
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Transforming+Ideas+Into+Scalable+Digital+Solutions;Building+High-Performance+Web+%26+Mobile+Applications;Passionate+About+Clean+Code+%26+Best+Practices;Open+Source+Contributor+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%" />
+
+</div>
+
+---
+
+## 🏆 **Technical Profile**
+
+<div align="center">
+  
+![Profile Banner](https://github.com/suman819-cmd/suman819-cmd/blob/main/assets/banner.png?raw=true)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suman819-cmd&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/suman819-cmd?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-brightgreen" alt="status" />
+  <a href="https://www.linkedin.com/in/shumanbashyal">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:shumanbashyal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://sumanbashyal.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-00A98F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://calendly.com/suman-bashyal">
+    <img src="https://img.shields.io/badge/Calendly-Schedule-00A98F?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly">
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 📌 About Me
+## 🔥 **Tech Stack Mastery**
 
-```javascript
-const suman = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "Python", "C++"],
-  frameworks: ["React", "Next.js", "Node.js", "Express", "React Native"],
-  databases: ["MongoDB", "MySQL"],
-  styling: ["CSS3", "TailwindCSS", "Styled Components"],
-  tools: ["Git", "Figma", "Postman", "GraphQL"],
-  learning: ["Backend Architecture", "System Design"],
-  workingOn: "🍔 Food Delivery App",
-  funFact: "I can debug code but can't debug my sleep schedule 😴"
-};
+### **💻 Core Competencies**
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+      <br>★★★★★
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+      <br>★★★★★
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+      <br>★★★★★
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+      <br>★★★★★
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+      <br>★★★★☆
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+      <br>★★★★★
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+      <br>★★★★★
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+      <br>★★★☆☆
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+      <br>★★★☆☆
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+      <br>★★☆☆☆
+    </td>
+  </tr>
+</table>
+
+### **📊 Tech Ecosystem**
+```mermaid
+graph LR
+    A[Frontend] --> B[React/Next.js]
+    A --> C[TypeScript]
+    A --> D[TailwindCSS]
+    
+    E[Backend] --> F[Node.js/Express]
+    E --> G[MongoDB/PostgreSQL]
+    E --> H[GraphQL/REST]
+    
+    I[DevOps] --> J[Docker]
+    I --> K[AWS/GCP]
+    I --> L[CI/CD]
+    
+    M[Mobile] --> N[React Native]
+    M --> O[Expo]
+    
+    B --> P[Full Stack Apps]
+    F --> P
+    N --> P
+    
+    style A fill:#2563eb,color:#fff
+    style E fill:#7c3aed,color:#fff
+    style I fill:#059669,color:#fff
+    style M fill:#dc2626,color:#fff
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### **Mobile & Others**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+## 📈 **GitHub Analytics & Metrics**
 
 <div align="center">
 
-| ![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suman819-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suman819-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff) |
-|:---:|:---:|
+### **Productivity Dashboard**
+  
+| Metric | Status |
+|--------|--------|
+| **Daily Coding Streak** | ![GitHub Streak](https://streak-stats.demolab.com?user=suman819-cmd&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff) |
+| **Contribution Graph** | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=suman819-cmd&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&custom_title=Code%20Contribution%20Map) |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suman819-cmd&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff)
+### **Performance Metrics**
+  
+<div style="display: flex; justify-content: center; gap: 20px;">
+  
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suman819-cmd&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suman819-cmd&theme=radical)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suman819-cmd&theme=radical)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=suman819-cmd&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+</div>
+
+### **Achievement Trophies**
+  
+![Trophy Collection](https://github-profile-trophy.vercel.app/?username=suman819-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🏗️ **Featured Projects**
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🍔 Food App** | Currently working on a food delivery application | React, Node.js, MongoDB, TailwindCSS |
-| **📱 React Native Apps** | Cross-platform mobile applications | React Native, TypeScript |
-| **⚡ Fullstack Apps** | Various web applications with complete features | MERN Stack, Next.js |
+### **🎯 Currently Building**
+<div align="center">
+
+| Project | Stack | Status | Description |
+|---------|-------|--------|-------------|
+| **🍔 FeastFlow** | React Native, Node.js, MongoDB | 🚧 In Progress | Next-gen food delivery platform with real-time tracking |
+| **⚡ CodeCollab** | Next.js 14, Socket.io, Redis | 🔄 Active Dev | Real-time collaborative code editor |
+| **🔐 AuthFlow Pro** | Express, JWT, OAuth 2.0 | ✅ Completed | Enterprise-grade authentication microservice |
+
+</div>
+
+### **📂 Project Showcase**
+```javascript
+const projects = [
+  {
+    name: "FeastFlow",
+    status: "active",
+    stack: ["React Native", "Node.js", "MongoDB", "Socket.io"],
+    features: ["Real-time tracking", "AI recommendations", "Payment integration"],
+    github: "https://github.com/suman819-cmd/feastflow"
+  },
+  {
+    name: "Portfolio 3.0",
+    status: "completed",
+    stack: ["Next.js 14", "TypeScript", "TailwindCSS", "Framer Motion"],
+    features: ["3D animations", "Blog system", "SEO optimized"],
+    live: "https://sumanbashyal.vercel.app"
+  }
+];
+```
 
 ---
 
-## 📫 Connect With Me
+## 📚 **Learning Roadmap 2024**
+
+```mermaid
+timeline
+    title Tech Learning Journey
+    section Q1 2024
+        Advanced TypeScript : System Design Patterns
+        Microservices Architecture : Docker & Kubernetes
+    section Q2 2024
+        AWS Certification : GraphQL Mastery
+        Performance Optimization : Testing Strategies
+    section Q3 2024
+        Web3 Basics : Blockchain Concepts
+        DevOps Automation : CI/CD Pipelines
+    section Q4 2024
+        Machine Learning : AI Integration
+        Open Source Contribution : Mentorship
+```
+
+---
+
+## 🎯 **Professional Badges**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shumanbashyal)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumanbashyal@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shu_man2004)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/suman)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suman819-cmd)
+![MERN Developer](https://img.shields.io/badge/MERN-Developer-00D8FF?style=flat-square&logo=react&logoColor=white)
+![TypeScript Expert](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Architect-FF6B35?style=flat-square&logo=fullstory&logoColor=white)
+![Cloud Native](https://img.shields.io/badge/Cloud_Native-Enthusiast-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-28A745?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 💼 **Professional Experience**
 
-![Suman's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=suman819-cmd&theme=react-dark&hide_border=true&area=true&custom_title=Suman's%20Contribution%20Graph)
+```yaml
+current_role:
+  position: "Senior Fullstack Developer"
+  focus: "MERN Stack & Cloud Solutions"
+  expertise:
+    - "Enterprise Application Development"
+    - "Microservices Architecture"
+    - "Real-time Systems"
+    - "Mobile-First Solutions"
+  
+achievements:
+  - "Scaled applications to 100k+ users"
+  - "Reduced load time by 70% through optimization"
+  - "Mentored 10+ junior developers"
+  - "Contributed to 5+ open source projects"
+```
 
 ---
+
+## 📬 **Connect & Collaborate**
+
+<div align="center">
+
+### **Let's Build Something Amazing Together!**
+
+[![LinkedIn Professional](https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/shumanbashyal)
+[![Schedule Meeting](https://custom-icon-badges.demolab.com/badge/-Schedule%20a%20Call-00A98F?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/suman-bashyal)
+[![Email Direct](https://custom-icon-badges.demolab.com/badge/-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumanbashyal@gmail.com)
+[![GitHub Projects](https://custom-icon-badges.demolab.com/badge/-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suman819-cmd?tab=repositories)
+
+### **📡 Quick Links**
+<p align="center">
+  <a href="https://sumanbashyal.vercel.app/blog">📝 Blog</a> •
+  <a href="https://github.com/suman819-cmd?tab=repositories">💻 Repositories</a> •
+  <a href="https://leetcode.com/sumanbashyal">⚡ LeetCode</a> •
+  <a href="https://dev.to/sumanbashyal">🛠️ Dev.to</a>
+</p>
+
+</div>
+
+---
+
+## ✨ **Featured Quote**
 
 <div align="center">
   
-### ⚡ Fun Fact
-**I code, therefore I am... probably awake at 3 AM debugging something** 🦉
-
-*“First, solve the problem. Then, write the code.” – John Johnson*
-
----
+> "Code is like humor. When you have to explain it, it's bad." – *Cory House*
   
-✨ *Thanks for visiting my profile! Have a great day!* ✨
+![Footer](https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg)
+
+### ⚡ **Fun Fact**
+*When I'm not coding, you'll find me exploring new tech trends or contributing to open source. Always brewing coffee ☕ and solving problems 💡*
+
+**Visitor Count**  
+![Visitor Count](https://komarev.com/ghpvc/?username=suman819-cmd&label=PROFILE+VIEWS&style=flat-square&color=blueviolet)
+
+*Last Updated: $(date)*
 
 </div>
