@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Bashyal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Fullstack developer from Nepal</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
 
